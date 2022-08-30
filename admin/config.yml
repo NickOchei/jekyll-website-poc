@@ -12,7 +12,7 @@ publish_mode: editorial_workflow
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
 
 collections:
-  - label: Posts
+  - label: Posts/Blog
     name: posts
     folder: _posts/
     create: true
